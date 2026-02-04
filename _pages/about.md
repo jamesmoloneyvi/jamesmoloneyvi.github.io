@@ -6,7 +6,6 @@ subtitle: PhD Student, <a href='https://www.chloelahondere.com/'>Lahondere Lab</
 
 profile:
   align: right
-  content: about_einstein.md
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
 
@@ -19,9 +18,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 ---
+I am a PhD student studying mosquito sugar feeding and plant interactions in the Biochemistry Department at Virginia Tech in Blacksburg , VA. I am interested in all types of insect chemical ecology, but mosquitoes fascinate me especially because of their complex interactions with both animal and plant sources of nutrients.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a current Virginia Tech [Global Change Center Graduate Fellow](https://globalchange.vt.edu/graduate/interdisciplinary-phd-training.html). My work is supported by the College of Agriculture and Life Science [Graduate Teaching Scholars](https://www.cals.vt.edu/academic-programs/current/graduate/gts/gts-application-instructions.html) Program which provides PhD students with the resources and training needed to become instructors of record while completing their degree.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
