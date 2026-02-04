@@ -120,7 +120,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/CV_Feb2026.pdf", "_blank");
+          window.open("/assets/pdf/CV_%20Feb2026.pdf", "_blank");
         },
       },{
         id: 'social-email',
@@ -134,7 +134,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/james-moloney-161ba3231i", "_blank");
+          window.open("https://www.linkedin.com/in/james-moloney-161ba3231", "_blank");
         },
       },{
       id: 'light-theme',
