@@ -22,3 +22,4 @@ I am a PhD student studying mosquito sugar feeding and plant interactions in the
 
 I am a current Virginia Tech [Global Change Center Graduate Fellow](https://globalchange.vt.edu/graduate/interdisciplinary-phd-training.html). My work is supported by the College of Agriculture and Life Science [Graduate Teaching Scholars](https://www.cals.vt.edu/academic-programs/current/graduate/gts/gts-application-instructions.html) Program which provides PhD students with the resources and training needed to become instructors of record while completing their degree.
 
+I obtained my Bachelor's of Science in biology from Truman State University.
