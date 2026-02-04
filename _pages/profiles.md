@@ -17,11 +17,11 @@ profiles:
     image: micah_pic.jpg
     content: about_micah.md
   - align: right
-    image: default_pic.JPG
+    image: default_pic.jpg
     content: about_isabell.md
     image_circular: false # crops the image to make it circular
   - align: left
-    image: default_pic.JPG
+    image: default_pic.jpg
     content: about_gia.md
     image_circular: false # crops the image to make it circular
 ---
