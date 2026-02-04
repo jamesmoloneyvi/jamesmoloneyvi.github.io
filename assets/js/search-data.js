@@ -134,7 +134,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/jamesmoloneyvi", "_blank");
+          window.open("https://www.linkedin.com/in/james-moloney-161ba3231i", "_blank");
         },
       },{
       id: 'light-theme',
