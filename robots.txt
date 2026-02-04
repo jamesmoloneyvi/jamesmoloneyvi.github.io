@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://moloney-james.com/sitemap.xml
+Sitemap: https://jamesmoloneyvi.github.io/sitemap.xml
