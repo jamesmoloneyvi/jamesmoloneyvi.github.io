@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
-description: members of the lab or group
+title: mentoring
+description: undergraduate students I have mentored
 nav: true
 nav_order: 7
 
