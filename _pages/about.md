@@ -6,6 +6,7 @@ subtitle: PhD Student, <a href='https://www.chloelahondere.com/'>Lahondere Lab</
 
 profile:
   align: right
+  content: about_einstein.md
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
 
