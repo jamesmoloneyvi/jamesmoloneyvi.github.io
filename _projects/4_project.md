@@ -2,7 +2,7 @@
 layout: page
 title: Life History of Blood Feeding
 description: 
-img: 
+img: assets/img/blood_feeding.png
 importance: 3
 category: fun
 ---
