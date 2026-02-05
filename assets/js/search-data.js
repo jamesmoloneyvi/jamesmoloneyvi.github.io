@@ -63,9 +63,9 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project.html";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-sugar-feeding-on-goldenrod",
+          title: 'Sugar Feeding on Goldenrod',
+          description: "A Late-Season Source of Nutrients",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project.html";
             },},{id: "teachings-data-science-fundamentals",
