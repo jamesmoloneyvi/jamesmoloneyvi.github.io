@@ -2,7 +2,7 @@
 layout: page
 title: Fly Poison
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/fp_feeding.jpg
 importance: 1
 category: work
 related_publications: true
