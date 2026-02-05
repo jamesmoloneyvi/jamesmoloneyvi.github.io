@@ -5,7 +5,7 @@ title: teaching
 description:
 nav: true
 nav_order: 6
-calendar: true
+calendar: false
 ---
 I am a graduate TA for BCHM 4354: Biochemical Communication at Virginia Tech. As a part of the Graduate Teaching Scholars Progam, I take increased responibility for teaching the course. Currently, I give 20% of the lectures and assist with organization. I am expected to take over 50% of the teaching and planning duties in Spring 2027 and will become the intrutor of record in Spring 2028.
 
