@@ -24,7 +24,7 @@ profiles:
     content: about_isabell.md
     image_circular: false # crops the image to make it circular
   - align: right
-    image: default_pic.png
+    image: gia_pic.jpg
     content: about_gia.md
     image_circular: false # crops the image to make it circular
 ---
