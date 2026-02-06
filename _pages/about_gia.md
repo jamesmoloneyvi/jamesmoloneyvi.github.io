@@ -1,1 +1,1 @@
-SaGia Singh worked with me in Spring 2025.
+I mentored Gia in Spring 2025, while she was a senior-year biochemistry student at Virginia Tech. She is now a PhD student in NC State University's Molecular & Structural Biochemistry graduate program, researching the role of UDP-glucose-6-dehydrogenase (UGDH) in cancer. In her free time, she enjoys traveling, hiking, cooking/baking, and spending time with her friends and family. 
