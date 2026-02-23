@@ -8,7 +8,7 @@ category: work
 related_publications: false
 ---
 
-Newly invasive species of mosquitoes pose significant problems for disease control in the eastern United States. One such mosquito species, Aedes japonicus is especially difficult to control due to its large size and high cold tolerance. We observed Ae. japonicus feeding on a toxic native plant called Fly Poison. In collaboration with summer undergraduate students from the [Mountain Lake Biological Station REU Program] (https://mlbs.virginia.edu/), I am investigating the driving factors behind this interaction.
+Newly invasive species of mosquitoes pose significant problems for disease control in the eastern United States. One such mosquito species, Aedes japonicus is especially difficult to control due to its large size and high cold tolerance. We observed Ae. japonicus feeding on a toxic native plant called Fly Poison. In collaboration with summer undergraduate students from the [Mountain Lake Biological Station REU Program](https://mlbs.virginia.edu/), I am investigating the driving factors behind this interaction.
 
 </div>
 <div class="row">
