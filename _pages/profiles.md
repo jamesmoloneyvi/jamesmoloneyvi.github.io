@@ -11,6 +11,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: sophia_pic.JPG
+    description: Sophia D'Onofrio
     content: about_sophia.md
     image_circular: false # crops the image to make it circular
   - align: left
