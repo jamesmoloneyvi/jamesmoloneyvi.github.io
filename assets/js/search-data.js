@@ -55,7 +55,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-fly-poison",
           title: 'Fly Poison',
-          description: "with background image",
+          description: "Sugar feeding on a toxic plant.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
             },},{id: "projects-life-history-of-blood-feeding",
