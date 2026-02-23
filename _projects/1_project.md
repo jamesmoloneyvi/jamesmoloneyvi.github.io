@@ -18,5 +18,3 @@ Newly invasive species of mosquitoes pose significant problems for disease contr
 </div>
 <div class="caption">
     Aedes japonicus mosquito landing on a fly poison flower.
-
-{% endraw %}
