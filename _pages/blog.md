@@ -1,7 +1,7 @@
 ---
 layout: default
-permalink: /outreach/
-title: blog
+permalink: /blog/
+title: outreach
 nav: true
 nav_order: y
 pagination:
