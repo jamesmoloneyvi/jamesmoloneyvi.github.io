@@ -1,9 +1,9 @@
 ---
 layout: default
-permalink: /blog/
+permalink: /outreach/
 title: blog
 nav: true
-nav_order: 1
+nav_order: y
 pagination:
   enabled: true
   collection: posts
