@@ -44,15 +44,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-a-post-with-images",
+        },{id: "post-2025-nutshell-games",
         
-          title: "a post with images",
+          title: "2025 Nutshell Games",
         
-        description: "this is what included images could look like",
+        description: "90-Second Talk Competition for PhD Students",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/images/";
+            window.location.href = "/blog/2025/images/";
           
         },
       },{id: "books-the-godfather",
