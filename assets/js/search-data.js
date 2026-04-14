@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-2025-nutshell-games",
+        },{id: "post-ecological-society-of-america-policy-award",
+        
+          title: "Ecological Society of America Policy Award",
+        
+        description: "Advocating for science funding at the US Capitol.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/esa_policy/";
+          
+        },
+      },{id: "post-2025-nutshell-games",
         
           title: "2025 Nutshell Games",
         
