@@ -36,7 +36,7 @@ The Nutshell Games are a free, and open to the public competition put on by the 
 </div>
 
 <div class="row mt-3">
-    <div class="mx-auto" style="width: 700px;">>
+    <div class="mx-auto">
         {% include video.liquid path="https://www.youtube.com/embed/hjC8Sdy9oes?si=8dhitQanmrROkH6b" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
