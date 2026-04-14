@@ -26,7 +26,7 @@ Watch my talk! It was professionally recorded as a part of the event.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/watch?v=hjC8Sdy9oes&list=PLjNPzLCLK0StjoK2RXuHXi4BGeX3CPh_3&index=28" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="https://www.youtube.com/embed/hjC8Sdy9oes?si=8dhitQanmrROkH6b" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
