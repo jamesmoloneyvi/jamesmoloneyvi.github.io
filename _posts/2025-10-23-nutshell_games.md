@@ -22,7 +22,13 @@ The Nutshell Games are a free, and open to the public competition put on by the 
     I have a flair for the dramatic. Props are allowed in the competition and I chose to "become" my study species.
 </div>
 
-[Watch my talk!](https://www.youtube.com/watch?v=hjC8Sdy9oes&list=PLjNPzLCLK0StjoK2RXuHXi4BGeX3CPh_3&index=28) It was professionally recorded as a part of the event.
+Watch my talk! It was professionally recorded as a part of the event.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://www.youtube.com/watch?v=hjC8Sdy9oes&list=PLjNPzLCLK0StjoK2RXuHXi4BGeX3CPh_3&index=28" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
