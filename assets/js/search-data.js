@@ -66,6 +66,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/nutshell_games/";
           
         },
+      },{id: "post-flip-the-fair",
+        
+          title: "Flip the Fair",
+        
+        description: "Grad students present research and 5th graders judge",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/flip_the_fair/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
