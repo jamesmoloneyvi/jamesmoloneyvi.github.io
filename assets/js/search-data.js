@@ -66,6 +66,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/nutshell_games/";
           
         },
+      },{id: "post-hokie-bugfest",
+        
+          title: "Hokie Bugfest",
+        
+        description: "Teaching families about mosquitoes!",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/bugfest/";
+          
+        },
       },{id: "post-flip-the-fair",
         
           title: "Flip the Fair",
