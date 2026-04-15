@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-ecological-society-of-america-policy-award",
+        },{id: "post-belview-elementary-stem-night",
+        
+          title: "Belview Elementary STEM Night",
+        
+        description: "Using the sceintific method to make slime!",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/belviewstem/";
+          
+        },
+      },{id: "post-ecological-society-of-america-policy-award",
         
           title: "Ecological Society of America Policy Award",
         
