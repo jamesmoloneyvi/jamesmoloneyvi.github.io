@@ -5,7 +5,7 @@ date: 2025-09-25 21:01:00
 description: Grad students present research and 5th graders judge
 tags:
 categories: outreach-in-the-community
-thumbnail: assets/img/outreach/ftf1.jpg
+thumbnail: assets/img/outreach/ftf1.JPG
 ---
 
 Flip the Fair is an annual event that originally began as a Global Change Center IGEP Capstone project. "Flipping" the traditional science fair format, grad students make tri-fold posters about their research and are judged by groups of 5th graders from Roanoke-area public schools!
