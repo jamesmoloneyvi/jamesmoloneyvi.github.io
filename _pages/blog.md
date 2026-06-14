@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /blog/
-title: outreach
+title: Outreach
 nav: true
 nav_order: y
 pagination:
