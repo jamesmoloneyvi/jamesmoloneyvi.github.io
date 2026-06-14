@@ -18,7 +18,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 ---
-I am a working on a PhD in the Biochemistry Department at Virginia Tech in Blacksburg , VA studying mosquito sugar feeding and plant interactions. I am interested in all types of insect chemical ecology, but mosquitoes fascinate me especially because of their complex interactions with both animal and plant sources of nutrients.
+I am a working on a PhD in the Biochemistry Department at Virginia Tech studying mosquito sugar feeding and plant interactions. I am interested in all types of insect chemical ecology, but mosquitoes fascinate me especially because of their complex interactions with both animal and plant sources of nutrients.
 
 I am a current Virginia Tech [Global Change Center Graduate Fellow](https://globalchange.vt.edu/graduate/interdisciplinary-phd-training.html) and a graduate afilliate of the [Invasive Species Collaborative](https://invasivespeciesvt.org/). My work is supported by the College of Agriculture and Life Science [Graduate Teaching Scholars](https://www.cals.vt.edu/academic-programs/current/graduate/gts/gts-application-instructions.html) Program which provides PhD students with the resources and training needed to become instructors of record while completing their degree.
 
