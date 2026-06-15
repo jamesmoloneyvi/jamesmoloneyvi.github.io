@@ -9,6 +9,13 @@ nav_order: 7
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
+  - align: left
+    image: julia_pic.JPG
+    description: Julia Torgelson
+    content: about_julia.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Julia Torgelson</p>
   - align: right
     image: sophia_pic.JPG
     description: Sophia D'Onofrio
