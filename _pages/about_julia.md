@@ -1,0 +1,1 @@
+Julia is a senior from Seattle, Washington. She is majoring in biology and environmental studies at St. Olaf College and hopes to pursue a career in public health. In her free time, she loves to hike, travel, ski, and play cello. Julia is a 2026 REU student at MLBS.
