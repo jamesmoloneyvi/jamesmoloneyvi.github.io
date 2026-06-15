@@ -10,7 +10,7 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: left
-    image: julia_pic.JPG
+    image: assets/img/julia_pic.jpg
     description: Julia Torgelson
     content: about_julia.md
     image_circular: false # crops the image to make it circular
