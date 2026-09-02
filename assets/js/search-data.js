@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-belview-elementary-stem-night",
+        },{id: "post-science-on-tap",
+        
+          title: "Science on Tap",
+        
+        description: "Mosquito biology in the community.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/science_on_tap/";
+          
+        },
+      },{id: "post-belview-elementary-stem-night",
         
           title: "Belview Elementary STEM Night",
         
