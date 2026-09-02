@@ -22,7 +22,7 @@ I pulled out all the outreach stops I could– bringing a research poster, diagr
     </div>
 </div>
 <div class="caption">
-    Showing off a few tools used for mosquito collection. (Right) a BG sentinel trap. (Left) BG mosquito scent baits.
+    Showing off a few tools used for mosquito collection. (Left) a BG sentinel trap. (Right) BG mosquito scent baits.
 </div>
 
 This was my longest speaking event of my career so far. I got the chance to talk about mosquitoes for just over an hour!
